@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module Seprate_Curd_Operation {
+	requires java.sql;
+}

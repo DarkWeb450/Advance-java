@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\probo\OneDrive\Desktop\Advance java lab file\Lab 1to4\Lab1\.metadata\.plugins\org.eclipse.jdt.core
+12280898.index
+1865797976.index
+2952949906.index
